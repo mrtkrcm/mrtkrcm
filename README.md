@@ -19,9 +19,7 @@ I’m currently learning about natural language processing, LLMs and computer vi
 
 [LinkedIn](https://www.linkedin.com/in/muratkaracam/)
 
-<br>
-
-<summary><h2>Things I enjoy building with</h2></summary>
+<hr>
 
 <h3>Programming and Markup Languages</h3>
 <p align="center">
@@ -48,7 +46,6 @@ I’m currently learning about natural language processing, LLMs and computer vi
       <img src="https://skillicons.dev/icons?i=jenkins,github,vercel,aws,gcp,netlify" />
     </a>
 </p>
-
 
 <h3>Databases</h3>
 <p align="center">
