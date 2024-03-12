@@ -1,23 +1,13 @@
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/muratkaracam/" target="_blank">
-        <img align="center" alt="murat-karacam" height="30"  width="40" src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    <a href="https://twitter.com/mrtkrcm" target="_blank">
-        <img align="center" alt="mrtkrcm" height="30" width="40" src="https://skillicons.dev/icons?i=twitter" />
-    </a>
-</p>
-
 ### Hey, I'm Murat 👋
 
-I'm a software engineer and AI enthusiast. I love building fast, scalable and modern web applications that devs love to work on.
+"I'm a software engineer and an AI enthusiast. I love building fast, scalable, and modern JavaScript applications that developers love to work on.
 
-I'm currently working as a freelance software consultant, helping companies build their apps or take them to the next level.
+Currently, I'm working as a freelance software consultant, helping companies build their apps or elevate them to the next level.
 
-I’m currently learning about natural language processing, LLMs and computer vision.
+I’m currently learning about natural language processing, Large Language Models (LLMs), and agents for code-generation, analysis, and automation."
 
 
-[LinkedIn](https://www.linkedin.com/in/muratkaracam/)
+[LinkedIn](https://www.linkedin.com/in/muratkaracam/) - [X](https://x.com/mrtkrcm)
 
 <hr>
 
